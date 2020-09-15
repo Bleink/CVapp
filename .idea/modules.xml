@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CVapp.iml" filepath="$PROJECT_DIR$/.idea/modules/CVapp.iml" group="CVapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cvapp/cvapp.iml" filepath="$PROJECT_DIR$/.idea/modules/cvapp/cvapp.iml" group="CVapp/cvapp" />
+    </modules>
+  </component>
+</project>
